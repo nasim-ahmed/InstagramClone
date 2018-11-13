@@ -1,0 +1,6 @@
+framework module Pods_DuoSnap {
+  umbrella header "Pods-DuoSnap-umbrella.h"
+
+  export *
+  module * { export * }
+}
